@@ -1,6 +1,8 @@
-package Factory.Service.Impl;
+package AbstractFactory.Service;
 
-public class ConexionOracle implements Conexion {
+import AbstractFactory.Interfaz.IConexionDB;
+
+public class ConexionOracleImpl implements IConexionDB {
 
     private String host;
     private String puerto;
