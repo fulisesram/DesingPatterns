@@ -1,2 +1,0 @@
-# DesingPatterns
-DesingPatterns_example
