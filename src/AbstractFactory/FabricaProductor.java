@@ -1,6 +1,6 @@
 package AbstractFactory;
 
-import AbstractFactory.Interfaz.IAbstractFactory;
+import AbstractFactory.Interfaz.*;
 
 public class FabricaProductor {
 

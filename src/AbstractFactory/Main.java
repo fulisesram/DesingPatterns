@@ -1,8 +1,6 @@
 package AbstractFactory;
 
-import AbstractFactory.Interfaz.IAbstractFactory;
-import AbstractFactory.Interfaz.IConexionDB;
-import AbstractFactory.Interfaz.IConexionREST;
+import AbstractFactory.Interfaz.*;
 
 public class Main  {
 
