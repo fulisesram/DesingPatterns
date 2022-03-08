@@ -1,5 +1,6 @@
 package Command.commands;
 
+//Command
 @FunctionalInterface
 public interface IOperacion {
 

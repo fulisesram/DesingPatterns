@@ -11,6 +11,7 @@ public class Invoker {
         this.operaciones.add(operacion);
     }
 
+    // Comandos que ejecuta
     public void realizarOperaciones() {
         this.operaciones.forEach(x -> x.execute());
         this.operaciones.clear();

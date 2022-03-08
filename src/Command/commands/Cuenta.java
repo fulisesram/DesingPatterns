@@ -1,5 +1,7 @@
 package Command.commands;
 
+
+// Esta clase es el Receiver o Request
 public class Cuenta {
 
     private int id;
